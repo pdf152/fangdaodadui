@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dasai.png</file>
+        <file>IMG_5975(20230716-203436)(1).jpg</file>
+        <file>locked.png</file>
+        <file>unlocked.png</file>
+        <file>green.png</file>
+        <file>red.png</file>
+        <file>backgroud.jpg</file>
+    </qresource>
+</RCC>
